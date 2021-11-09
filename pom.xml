@@ -7,4 +7,8 @@
   <groupId>clinic.programming</groupId>
   <artifactId>mave-quick-start</artifactId>
   <version>1.0</version>
+  <properties>
+	  <mave.compiler.source>17</mave.compiler.source>
+	  <mave.compiler.target>17</mave.compiler.target>
+  </properties>
 </project>

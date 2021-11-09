@@ -7,7 +7,17 @@
   <groupId>clinic.programming</groupId>
   <artifactId>maven-quick-start</artifactId>
   <version>1.0</version>
-  <!-- Para cambiar version de Java compiler en internet 
+  
+  <!-- dependencia desde apache maven central search.maven.org -->
+  <dependencies>
+  	<dependency>
+  	  <groupId>org.apache.commons</groupId>
+  	  <artifactId>commons-lang3</artifactId>
+  	  <version>3.12.0</version>
+  	</dependency>
+  </dependencies>
+  
+  <!-- Para cambiar version de Java compiler sugerencia en internet las dos funcionaron
   <properties>
 	  <maven.compiler.source>17</maven.compiler.source>
 	  <maven.compiler.target>17</maven.compiler.target>

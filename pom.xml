@@ -6,9 +6,9 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>clinic.programming</groupId>
   <artifactId>maven-quick-start</artifactId>
-  <version>1.1</version>
+  <version>1.2</version>
   
-  <!-- dependencia desde apache maven central search.maven.org -->
+  <!-- dependencia desde apache maven central search.maven.org  version 1.2 cambio en eclipse-->
   <dependencies>
   	<dependency>
   	  <groupId>org.apache.commons</groupId>
